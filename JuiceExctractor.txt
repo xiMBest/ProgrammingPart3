@@ -1,0 +1,27 @@
+Your elements:
+# Color	Mliters	Power	Maker
+0 kjnbjk	4	62	kjb
+1 rkbjg	4	25	kjtnbj
+2 kjgb	23	42	jtg
+3 kj	5	26	rfhbh
+
+Array after Insertion by Maximum Liters:
+Swaps: 4
+Comperisons: 4
+# Color	Mliters	Power	Maker
+0 kjgb	23	42	kjgb
+1 kj	5	26	kj
+2 kjnbjk	4	62	kjnbjk
+3 rkbjg	4	25	rkbjg
+Insertion Sort was 33 microseconds
+
+Array after Merge sort by Power:
+Swaps: 3
+Comperisons: 8
+# Color	Mliters	Power	Maker
+0 rkbjg	4	25	rkbjg
+1 kj	5	26	kj
+2 kjgb	23	42	kjgb
+3 kjnbjk	4	62	kjnbjk
+Merge Sort was 36 microseconds
+
