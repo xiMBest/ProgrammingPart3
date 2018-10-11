@@ -1,3 +1,0 @@
-# ProgrammingPart3
-
-something
