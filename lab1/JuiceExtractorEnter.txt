@@ -1,0 +1,4 @@
+red,4,1300,Apple,
+grey,1,1400,Samsung,
+black,3,1000,Xiaomi,
+green,5,1250,Huawei,
